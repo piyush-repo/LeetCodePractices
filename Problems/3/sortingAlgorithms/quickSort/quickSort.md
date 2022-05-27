@@ -1,0 +1,1 @@
+Get more logic details and time complexity details at this [link](https://de.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/overview-of-quicksort)
