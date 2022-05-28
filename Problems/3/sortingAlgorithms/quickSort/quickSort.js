@@ -25,6 +25,7 @@ function partition(arr, start, end){
     swap(arr, pivotIndex, endIndex);
     return endIndex;
 }
+
 function quickSort(arr, start, end){
   if(arr.slice(start, end).length < 2){
       return arr;
