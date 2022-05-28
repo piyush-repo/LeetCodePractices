@@ -1,3 +1,7 @@
+/**
+ *  @param arr list of integers
+ *  @description the timeComplexity of this algorithm is O(n2) and space complexity is O(1)
+ */
 function insertionSort(arr){
     if(arr.length < 2){
         return arr;
